@@ -4,4 +4,7 @@
 ```
 git clone https://github.com/tishinb/SchrodingerSite.git
 ```
-2.
+2. Создание Docker-образа
+```
+sudo docker build -t tbvdockerflask:1.0 .
+```
